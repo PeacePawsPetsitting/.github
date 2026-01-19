@@ -1,4 +1,8 @@
-Hello, we're Adam and Lianne. Since 2012, we've been servicing clients around the world. While you take a pause, we'll bring the peace of mind.
+Hello, we're Adam and Lianne. Since 2012, we've been servicing clients around the world. 
+
+Please visit our website for all the info: https://PeacePawsPetsitting.github.io
+
+While you take a pause, we'll bring the peace of mind.
 
 <!--
 
