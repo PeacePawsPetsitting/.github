@@ -1,8 +1,10 @@
-Hello, we're Adam and Lianne. Since 2012, we've been servicing clients around the world. 
+Hello, we're Adam and Lianne, international house- and petsitters since 2012.
 
-Please visit our website for all the info: https://PeacePawsPetsitting.github.io
+Are you planning a getaway, but hesitant about leaving your fur babies? If you are worried about the discomfort and cost of pet-boarding, consider having us step in as your housesitters.
 
-While you take a pause, we'll bring the peace of mind.
+Please visit our website for all our info, availability, and references: https://PeacePawsPetsitting.github.io
+
+# While you take a pause, we'll bring the peace of mind.
 
 <!--
 
